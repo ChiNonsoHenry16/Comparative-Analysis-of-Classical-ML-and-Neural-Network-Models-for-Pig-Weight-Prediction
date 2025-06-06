@@ -16,3 +16,6 @@ Given the importance of pork and the intricacies of pig breeding in modern life,
 #The k-fold cross-validation for the ensemble models was done with cross_val_score on a separate notebook after it continued to run endlessly with the manual looping. 
 
 #These codes are also published on Zenodo DOI: 10.5281/zenodo.15605858.  
+
+# Code Availability 
+The custom code used for the pig weight estimation experiments, including implementations of classical machine learning and neural network models, is openly available on GitHub and archived on Zenodo with the following DOI: 10.5281/zenodo.15605858. This ensures long-term accessibility and version control of the exact codebase described in this publication. The repository contains all necessary scripts, preprocessing steps, and instructions for replication.
