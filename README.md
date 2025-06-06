@@ -15,4 +15,4 @@ Given the importance of pork and the intricacies of pig breeding in modern life,
 
 #The k-fold cross-validation for the ensemble models was done with cross_val_score on a separate notebook after it continued to run endlessly with the manual looping. 
 
-#These codes are also published in Zenodo DOI: 10.5281/zenodo.15605858 
+#These codes are also published on Zenodo DOI: 10.5281/zenodo.15605858.  
