@@ -4,7 +4,7 @@ Obiajulu Emenike Ositanwosu1,2,5, Qiong Huang1,2*, Chukwunonso Henry Nwokoye3,5*
 
 1. College of Mathematics and Informatics, South China Agricultural University, Guangzhou 510642, China.   ositanwosuobiajulu@yahoo.com ; qhuang@scau.edu.cn 
 2. Guangzhou Key Laboratory of Intelligent Agriculture, South China Agricultural University, Guang-zhou, 510642, China. yliang@scau.edu.cn  
-3. Trustworthy AI Lab, Ontario Tech University, Canada; chinonsonwokoye@gmail.com ; Hen-ryChukwunonso.Nwokoye@ontariotechu.ca 
+3. Trustworthy AI Lab, Ontario Tech University, Canada; chinonsonwokoye@gmail.com ; HenryChukwunonso.Nwokoye@ontariotechu.ca 
 4. Department of Agricultural Economics & Extension, Nnamdi Azikiwe University, P.M.B. 5025, Awka, Nigeria. chynon24@yahoo.com 
 5. Department of Computer Science, Nnamdi Azikiwe University, P.M.B. 5025, Awka, Nigeria
 
